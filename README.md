@@ -1,8 +1,9 @@
 
-# CrainsHack quickstart
-[https://github.com/timbroderick/crainshack](https://github.com/timbroderick/crainshack) Either free or very cheap resources on the web. Generally these are all self-directed tutorials with no deadlines.
+# CrainsHack/* [https://github.com/timbroderick/crainshack](https://github.com/timbroderick/crainshack)
 
-We meet every Tuesday at noon for a half-hour, unless noted here: **Yes, I'll be there on Tuesday, November 13th.**
+This is the online home of the weekly half-hour flipped classroom for Crain's employees in Chicago. We meet every Tuesday at noon for a half-hour, unless noted here: **Yes, I'll be there on Tuesday, November 13th.**
+
+Below are either free or very cheap resources on the web. Generally these are all self-directed tutorials with no deadlines.
 
 There is no bad choice here. If you want to get better at Excel and aren't interested in learning to code, that's great. Excel is a powerful tool that I still use all the time. And generally, anything that works in Excel works in Google sheets.
 
@@ -60,3 +61,5 @@ Note: I do not recommend anything from W3schools.com. It's a content farm that c
 * [Kahn Academy](https://www.khanacademy.org/computing/computer-programming/html-css) is a not-for-profit learning site.
 * [The Odin Project](https://www.theodinproject.com/) seems to have a number of free tutorials to get you started on web design. I would start with [html and css](https://www.theodinproject.com/courses/html5-and-css3), and then try [javascript](https://www.theodinproject.com/courses/javascript). ***NOTE: I HAVE NOT DONE THESE.*** Try them out as long as they're free, but I wouldn't recommend paying for any courses with out fully vetting the site first.
 * [codecademy](https://www.codecademy.com/learn/paths/web-development) was a good resource when I learned Python, but they've since mixed their free tutorials with paid ones. I would give the free stuff a try first.
+
+/* I intended this to be "Crain's Hack", like [chihacknight](), but now I see it's more like "Crain's Shack" which, as a B52s fan, is fine.
