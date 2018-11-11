@@ -1,9 +1,9 @@
 
 # CrainsHack &ast; [https://github.com/timbroderick/crainshack](https://github.com/timbroderick/crainshack)
 
-This is the online home of the weekly half-hour flipped classroom for Crain's employees in Chicago. We meet every Tuesday at noon for a half-hour, unless noted here: **Yes, I'll be there on Tuesday, November 13th.**
+This is the online home of the weekly half-hour flipped classroom for Crain's employees in Chicago. I'll be in the 18th-floor lunchroom every Tuesday at noon for a half-hour, unless noted here: **Yes, I'll be there on Tuesday, November 13th.**
 
-Below are either free or very cheap resources on the web. Generally these are all self-directed tutorials with no deadlines.
+Below are links to either free or very cheap resources on the web. Generally these are all self-directed tutorials with no deadlines.
 
 There is no bad choice here. If you want to get better at Excel and aren't interested in learning to code, that's great. Excel is a powerful tool that I still use all the time. And generally, anything that works in Excel works in Google sheets.
 
@@ -14,7 +14,7 @@ If you'd like to learn to code, either R or Python are good choices. I work in b
 ### Google searches
 
 If you get stuck - and you will get stuck - there are tons of free resources online. Here's two ways to find them via google search:
-* Type "stackoverflow:" and your question. Stackoverflow is a website dedicated to answering questions about all these tools. It's huge and has a worldwide reach.
+* Type "stackoverflow:" and your question. [Stackoverflow](https://stackoverflow.com/) is a website dedicated to answering questions for computer developers. It's huge, has a worldwide reach and is essentially THE repository of developer knowledge in the 21st century for beginners all the way up to experts.
 * Type what you want to do ("excel pivot table") and then the word "tutorial."
 
 If those don't work, contact me and we'll figure it out together.
