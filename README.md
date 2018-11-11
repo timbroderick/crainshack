@@ -8,19 +8,22 @@ If you'd like to learn to code, either R or Python are good choices. I work in b
 
 ## Data Journalism Resources
 
-**Google searches**
+### Google searches
+
 If you get stuck - and you will get stuck - there are tons of free resources online. Here's two ways to find them via google search:
 * Type "stackoverflow:" and your question. Stackoverflow is a website dedicated to answering questions about all these tools. It's huge and has a worldwide reach.
 * Type what you want to do ("excel pivot table") and then the word "tutorial."
 If those don't work, contact me and we'll figure it out together.
 
-**For Excel**
+### For Excel
+
 I don't have a lot of resources for Excel. If there's a free or cheap course that you recommend, please let me know and I'll add it here.
 * Microsoft has a lot of [free resources online](https://support.office.com/en-us/excel).
 * Excel for [Windows training](https://support.office.com/en-us/article/excel-for-windows-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?wt.mc_id=otc_home&ui=en-US&rs=en-US&ad=US). Useful for Mac as well.
 * [Excel Easy](https://www.excel-easy.com/) Seems to have a number of free mini-tutorials for specific skills.
 
-**For R**
+### For R
+
 R is a language specifically designed for statistical analysis. Tons of free stuff out there. To use it, get and install the R language and then install Rstudio.
 
 Here are the learning resources I recommend:
@@ -30,7 +33,8 @@ Here are the learning resources I recommend:
 * Once I got up and running with R, I put together [this series of tutorials](https://timbroderick.github.io/R_graphics/) for my co-workers and myself (to document what I'd learned), mainly focused on making print-ready graphics with R. Lots of links to cool stuff.
 * I sat through [this session](https://paldhous.github.io/NICAR/2017/r-analysis.html) a few years ago and found it very useful. Wait till you learn a bit about R first.
 
-**For Python**
+### For Python
+
 Python is a great general-purpose computer language, but also used for data science. Here's some very resources to start with.
 * If you're new to all this, I recommend using the Anaconda installation of Python. Will include all the stuff you need to get started. Feel free to see me for assistance installing.
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) is an excellent place to begin. He's also got a cheap Udemy course.
