@@ -62,4 +62,6 @@ Note: I do not recommend anything from W3schools.com. It's a content farm that c
 * [The Odin Project](https://www.theodinproject.com/) seems to have a number of free tutorials to get you started on web design. I would start with [html and css](https://www.theodinproject.com/courses/html5-and-css3), and then try [javascript](https://www.theodinproject.com/courses/javascript). ***NOTE: I HAVE NOT DONE THESE.*** Try them out as long as they're free, but I wouldn't recommend paying for any courses with out fully vetting the site first.
 * [codecademy](https://www.codecademy.com/learn/paths/web-development) was a good resource when I learned Python, but they've since mixed their free tutorials with paid ones. I would give the free stuff a try first.
 
-&ast; I intended this to be "Crain's Hack", like [chihacknight](), but now I see it's more like "Crain's Shack" which, as a B52s fan, is fine.
+___
+
+&ast; I intended this to be "Crain's Hack", like [chihacknight](https://chihacknight.org/), but now I see it's more like "Crain's Shack" which, as a B52s fan, is fine.
