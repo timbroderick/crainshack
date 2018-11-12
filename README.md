@@ -55,14 +55,14 @@ Here are the learning resources I recommend:
 
 If you have some to suggest, please let me know and I'll include them here.
 
-Note: I do not recommend anything from W3schools.com. It's a content farm that comes up way too often in google searches, but I've never gotten much out of it and always feel like I need to cleanse my computer after looking at one of their pages.
-
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML) is the foundation behind the Firefox browser. Their tutorial series is a decent place to start.
 * [Kahn Academy](https://www.khanacademy.org/computing/computer-programming/html-css) is a not-for-profit learning site.
 * [freecodecamp](https://www.freecodecamp.org/) is a non-profit dedicated to helping people learn to code. Recommended by Emily Olsen.
 * Css-tricks comes up in my searches often when I'm trying to remember how to do things. They have a [beginners guide](https://css-tricks.com/almanac/) that looks useful.
 * [html5doctor](http://html5doctor.com/element-index/) is a reference recommended by Emily Olsen. Looks good.
 * I bookmarked [The Odin Project](https://www.theodinproject.com/) a while ago for some reason - it seems to have a number of free tutorials to get you started on web design. I would start with [html and css](https://www.theodinproject.com/courses/html5-and-css3), and then try [javascript](https://www.theodinproject.com/courses/javascript). ***NOTE: I HAVE NOT DONE THESE.*** Try them out as long as they're free, but I wouldn't recommend paying for any courses with out fully vetting the site first.
+
+Note: I do not recommend anything from W3schools dot com. It seems like a content farm that comes up way too often in google searches - its URL plays off the official consortium (w3.org) that's responsible for developing the html language. I've never gotten much out of W3schools and always feel like I need to cleanse my computer after looking at one of their pages.
 
 ___
 
