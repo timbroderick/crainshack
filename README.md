@@ -17,7 +17,7 @@ If you get stuck - and you will get stuck - there are tons of free resources onl
 * Type "stackoverflow:" and your question. [Stackoverflow](https://stackoverflow.com/) is a website dedicated to answering questions for computer developers. It's huge, has a worldwide reach and is essentially THE repository of developer knowledge in the 21st century for beginners all the way up to experts.
 * Type what you want to do ("excel pivot table") and then the word "tutorial."
 
-If those don't work, contact me and we'll figure it out together.
+If those don't work, contact me - or come to the Tuesday session - and we'll figure it out together.
 
 ### For Excel
 
@@ -59,8 +59,10 @@ Note: I do not recommend anything from W3schools.com. It's a content farm that c
 
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML) is the foundation behind the Firefox browser. Their tutorial series is a decent place to start.
 * [Kahn Academy](https://www.khanacademy.org/computing/computer-programming/html-css) is a not-for-profit learning site.
-* [The Odin Project](https://www.theodinproject.com/) seems to have a number of free tutorials to get you started on web design. I would start with [html and css](https://www.theodinproject.com/courses/html5-and-css3), and then try [javascript](https://www.theodinproject.com/courses/javascript). ***NOTE: I HAVE NOT DONE THESE.*** Try them out as long as they're free, but I wouldn't recommend paying for any courses with out fully vetting the site first.
-* [codecademy](https://www.codecademy.com/learn/paths/web-development) was a good resource when I learned Python, but they've since mixed their free tutorials with paid ones. I would give the free stuff a try first.
+* [freecodecamp](https://www.freecodecamp.org/) is a non-profit dedicated to helping people learn to code. Recommended by Emily Olsen.
+* Css-tricks comes up in my searches often when I'm trying to remember how to do things. They have a [beginners guide](https://css-tricks.com/almanac/) that looks useful.
+* [html5doctor](http://html5doctor.com/element-index/) is a reference recommended by Emily Olsen. Looks good.
+* I bookmarked [The Odin Project](https://www.theodinproject.com/) a while ago for some reason - it seems to have a number of free tutorials to get you started on web design. I would start with [html and css](https://www.theodinproject.com/courses/html5-and-css3), and then try [javascript](https://www.theodinproject.com/courses/javascript). ***NOTE: I HAVE NOT DONE THESE.*** Try them out as long as they're free, but I wouldn't recommend paying for any courses with out fully vetting the site first.
 
 ___
 
