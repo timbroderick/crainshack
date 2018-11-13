@@ -39,6 +39,7 @@ Here are the learning resources I recommend:
 * Alternatively, if you would rather have a self-paced series of video tutorials with exercises, I recommend the Udemy course [R programming for data science](https://www.udemy.com/r-programming/). I did this course and found it very useful. **DO NOT PAY MORE THAN $20 FOR THIS COURSE.** Please see me first about discounts.
 * Once I got up and running with R, I put together [this series of tutorials](https://timbroderick.github.io/R_graphics/) for my co-workers and myself (to document what I'd learned), mainly focused on making print-ready graphics with R. Lots of links to cool stuff.
 * I sat through [this session](https://paldhous.github.io/NICAR/2017/r-analysis.html) a few years ago and found it very useful. Wait till you learn a bit about R first.
+* The Chicago chapter of [R-Ladies](https://rladieschicago.org/) is very active and meets on a regular basis. Founder Angela Li is now regularly attending [ChiHackNight](https://chihacknight.org/), where I'll be volunteering to help out when I'm there too.
 
 ### For Python
 
