@@ -1,7 +1,7 @@
 
 # CrainsHack &ast; [https://github.com/timbroderick/crainshack](https://github.com/timbroderick/crainshack)
 
-This is the online home of the weekly half-hour flipped classroom for Crain's employees in Chicago. I'll be in the 18th-floor lunchroom every Tuesday at noon for a half-hour, unless noted here: **Yes, I'll be there on Tuesday, November 13th.**
+This is the online home of the weekly half-hour flipped classroom for Crain's employees in Chicago. I'll be in the 18th-floor lunchroom every Tuesday at noon for a half-hour, unless noted here: **Yes, I'll be there on Tuesday, November 20th.** Some of us will be starting [this tutorial](https://first-graphics-app.readthedocs.io/). The python version of this is linked below. But I'll be available if anyone has questions on other topics.
 
 Below are links to either free or very cheap resources on the web. Generally these are all self-directed tutorials with no deadlines.
 
@@ -49,8 +49,9 @@ I recommend [installing the Anaconda installation of Python](https://www.anacond
 
 Here are the learning resources I recommend:
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) is an excellent place to begin. He's also got a cheap Udemy course.
-* Here's a guide to analyzing [campaign contributions](http://www.firstpythonnotebook.org/) written by a leader in data journalism.
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), another great book free on the web.
+* Here's a guide to analyzing [campaign contributions](http://www.firstpythonnotebook.org/) written by a leader in data journalism, using tools I work with all the time.
+* And here's a tutorial on how to use python to create [an entire website](https://first-news-app.readthedocs.io/en/latest/). This was one I did and it's been invaluable.
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), basically the python version of the R book.
 
 ## Web Design Resources
 
