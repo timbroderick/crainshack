@@ -40,6 +40,7 @@ Here are the learning resources I recommend:
 * Once I got up and running with R, I put together [this series of tutorials](https://timbroderick.github.io/R_graphics/) for my co-workers and myself (to document what I'd learned), mainly focused on making print-ready graphics with R. Lots of links to cool stuff.
 * I sat through [this session](https://paldhous.github.io/NICAR/2017/r-analysis.html) a few years ago and found it very useful. Wait till you learn a bit about R first.
 * The Chicago chapter of [R-Ladies](https://rladieschicago.org/) is very active and meets on a regular basis. Founder Angela Li is now regularly attending [ChiHackNight](https://chihacknight.org/), where I'll be volunteering to help out when I'm there too.
+* This [Quartz article](https://qz.com/1464525/whats-the-best-way-to-learn-the-programming-language-r-preferably-for-free/) has some good links for more resources.
 
 ### For Python
 
