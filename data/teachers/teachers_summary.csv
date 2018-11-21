@@ -1,0 +1,7 @@
+      id, first_name, last_name,   school,  hire_date,    salary
+Min.   :1.00  ,Length:6          ,Length:6          ,Length:6          ,Min.   :1993-05-22  ,Min.   :36200  
+1st Qu.:2.25  ,Class :character  ,Class :character  ,Class :character  ,1st Qu.:2005-08-08  ,1st Qu.:36775  
+Median :3.50  ,Mode  :character  ,Mode  :character  ,Mode  :character  ,Median :2008-03-26  ,Median :41000  
+Mean   :3.50  ,NA,NA,NA,Mean   :2006-07-07  ,Mean   :43817  
+3rd Qu.:4.75  ,NA,NA,NA,3rd Qu.:2011-07-28  ,3rd Qu.:43500  
+Max.   :6.00  ,NA,NA,NA,Max.   :2011-10-30  ,Max.   :65000  

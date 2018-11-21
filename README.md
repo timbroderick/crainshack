@@ -1,13 +1,19 @@
 
 # CrainsHack &ast; [https://github.com/timbroderick/crainshack](https://github.com/timbroderick/crainshack)
 
-This is the online home of the weekly half-hour flipped classroom for Crain's employees in Chicago. I'll be in the 18th-floor lunchroom every Tuesday at noon for a half-hour, unless noted here: **Yes, I'll be there on Tuesday, November 20th.** Some of us will be starting [this tutorial](https://first-graphics-app.readthedocs.io/). The python version of this is linked below. But I'll be available if anyone has questions on other topics.
+This is the online home of the weekly half-hour flipped classroom for Crain's employees in Chicago. I'll be in the 18th-floor lunchroom every Tuesday at noon for a half-hour, unless noted below.
+
+**Yes, I'll be there on Tuesday, November 27th.**
+* I put together a quick introduction to R. It's in the data folder of this repo called "teachers." Feel free to download it, but I'll plan on going through it on the big screen for those who are interested.
+* Some of us will be continuing [this tutorial](https://first-graphics-app.readthedocs.io/). The python version of this is linked below. But I'll be available if anyone has questions on other topics.
+
+### What's here
 
 Below are links to either free or very cheap resources on the web. Generally these are all self-directed tutorials with no deadlines.
 
 There is no bad choice here. If you want to get better at Excel and aren't interested in learning to code, that's great. Excel is a powerful tool that I still use all the time. And generally, anything that works in Excel works in Google sheets.
 
-If you'd like to learn to code, either R or Python are good choices. I work in both and the basic concepts are pretty much the same. But if I had to recommend one, R is a bit more accessible to someone just starting out.
+If you'd like to learn to code, either R or Python are good paths to take. I work in both and the basic concepts are pretty much the same. But if I had to recommend one, R is a bit more accessible to someone just starting out.
 
 ## Data Journalism Resources
 
