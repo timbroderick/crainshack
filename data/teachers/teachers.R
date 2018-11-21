@@ -76,16 +76,29 @@ df
 # filtering by partial words or phrases
 
 # returns just Sam, uppercase
-df <- select(teachers,'first_name') %>% filter( str_detect(first_name, 'Sam' ) )
+df <- select(teachers,'first_name','last_name') %>% filter( str_detect(first_name, 'Sam' ) )
 df
 
 # would return Sam or sam
-df <- select(teachers,'first_name') %>% filter( str_detect(first_name, regex('sam', ignore_case=TRUE) ) )
+df <- select(teachers,'first_name','last_name') %>% filter( str_detect(first_name, regex('sam', ignore_case=TRUE) ) )
 df
 
-# the . means the phrase could be part of a complete word, but specifically be at the beginning
-df <- select(teachers,'school') %>% filter( str_detect(school, regex('roo.', ignore_case=TRUE) ) )
+# regex, or regular expression, is an adventure
+# this will return all schools with velt in them
+df <- select(teachers,'first_name','last_name','school') %>% filter( str_detect(school, regex('velt', ignore_case=TRUE) ) )
 df
+
+##########################
+# this should looking for schools with "velt" at the end of a word
+# but I'm having trouble getting it to work
+df <- select(teachers,'first_name','last_name','school') %>% filter( str_detect(school, regex("[a-z]+(velt)$", ignore_case=TRUE) ) )
+df
+
+# this should looking for schools with "velt" at the beginning of a word
+# but I'm having trouble getting it to work
+df <- select(teachers,'first_name','last_name','school') %>% filter( str_detect(school, regex("^(velt)[a-z]+", ignore_case=TRUE) ) )
+df
+##########################
 
 # mixing selectors
 # And is &, or is |
