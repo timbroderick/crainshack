@@ -3,6 +3,8 @@
 
 This is the online home of the weekly half-hour flipped classroom for Crain's employees in Chicago. I'll be in the 18th-floor lunchroom every Tuesday at noon for a half-hour, unless noted below.
 
+**What's new:** I added an R example where I worked some data on hospitals and made a few charts. It's in the "data" folder.
+
 **Yes, I'll be there on Tuesday, December 4,** although I can't believe it's already December.
 
 * I have a nice, quick demo of R if anyone is interested. Otherwise, there's no agenda. Come by and hack!
