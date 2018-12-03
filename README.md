@@ -3,8 +3,10 @@
 
 This is the online home of the weekly half-hour flipped classroom for Crain's employees in Chicago. I'll be in the 18th-floor lunchroom every Tuesday at noon for a half-hour, unless noted below.
 
-**Yes, I'll be there on Tuesday, November 27th.**
-* I put together a quick introduction to R. It's in the data folder of this repo called "teachers." Feel free to download it, but I'll plan on going through it on the big screen for those who are interested.
+**Yes, I'll be there on Tuesday, December 4,** although I can't believe it's already December.
+
+* I have a nice, quick demo of R if anyone is interested. Otherwise, there's no agenda. Come by and hack!
+* Next week, there will be a demo of pivot tables in Excel by two reporters from Modern Healthcare who attended an IRE training session.
 * Some of us will be continuing [this tutorial](https://first-graphics-app.readthedocs.io/). The python version of this is linked below. But I'll be available if anyone has questions on other topics.
 
 ### What's here

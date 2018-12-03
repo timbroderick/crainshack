@@ -1,0 +1,150 @@
+﻿medicare_provider_number,Provider ID,ein,name,street_address,city,state,zip_code,urban_location_f,county,american_association_id,children_hospital_f,chrch_affl_f,memb_counc_teach_hosps_f,hospital_bed_size,fips_state_and_county_code,hospital_id,hospital_system_id,updated_dt
+140001,140001,370673506,Graham Hospital Association,210 West Walnut Street,Canton,IL,61520,N,Fulton County,6430320,N,N,N,100-299 beds,17057,674,1,22-Jun-18
+140002,140002,753052953,Alton Memorial Hospital,One Memorial Drive,Alton,IL,62002,Y,Madison County,6430010,N,N,N,100-299 beds,17119,675,118,22-Jun-18
+140007,140007,364195126,Presence Saint Joseph Medical Center,333 N Madison,Joliet,IL,60435,Y,Will County,6431990,N,Y,N,>299 beds,17197,676,120,22-Jun-18
+140008,140008,362379649,Loyola Gottlieb Memorial Hospital,701 West North Ave,Melrose Park,IL,60160,Y,Cook County,6432435,N,N,N,100-299 beds,17031,677,40,22-Jun-18
+140010,140010,362167060,Evanston Hospital,2650 Ridge Ave,Evanston,IL,60201,Y,Cook County,6430021,N,N,Y,>299 beds,17031,678,1,22-Jun-18
+140011,140011,370618939,Herrin Hospital,201 S 14th St,Herrin,IL,62948,Y,Williamson County,6431870,N,N,N,100-299 beds,17199,679,122,22-Jun-18
+140012,140012,361000540,Katherine Shaw Bethea Hospital,403 E 1st St,Dixon,IL,61021,N,Lee County,6431460,N,N,Y,<100 beds,17103,680,1,22-Jun-18
+140013,140013,370681540,Proctor Hospital,5409 N Knoxville Ave,Peoria,IL,61614,Y,Peoria County,6432615,N,N,N,>299 beds,17143,681,123,22-Jun-18
+140015,140015,370661183,Blessing Hospital,Broadway At 11th Street,Quincy,IL,62301,N,Adams County,6430017,N,N,Y,>299 beds,17001,682,1,22-Jun-18
+140018,140018,361509000,Mt Sinai Hospital Medical Center,15th Street At California,Chicago,IL,60608,Y,Cook County,6430930,N,N,Y,>299 beds,17031,683,124,22-Jun-18
+140019,140019,370512290,Shelby Memorial Hospital,200 S Cedar St,Shelbyville,IL,62565,N,Shelby County,6432930,N,N,N,<100 beds,17173,684,1,22-Jun-18
+140023,140023,370661234,St Josephs Hospital,915 E 5th St,Alton,IL,62002,Y,Madison County,,N,Y,N,100-299 beds,17119,685,1,22-Jun-18
+140026,140026,362169181,St Marys Hospital,111 E Spring St,Streator,IL,61364,N,LaSalle County,,N,Y,N,100-299 beds,17099,686,1,22-Jun-18
+140029,140029,362170840,Copley Memorial Hospital,2000 Ogden Avenue,Aurora,IL,60504,Y,Kane County,6430100,N,N,Y,100-299 beds,17089,687,126,22-Jun-18
+140030,140030,362167920,Sherman Hospital,1425 North Randall Road,Elgin,IL,60123,Y,Kane County,6431610,N,N,N,100-299 beds,17089,688,127,22-Jun-18
+140032,140032,370661233,St Anthonys Memorial Hospital,503 N Maple Street,Effingham,IL,62401,N,Effingham County,6431560,N,Y,N,100-299 beds,17049,689,125,22-Jun-18
+140034,140034,370662580,Ssm Health St Marys Hospital -Centralia,400 North Pleasant Avenue,Centralia,IL,62801,N,Marion County,6430360,N,Y,N,100-299 beds,17121,690,129,22-Jun-18
+140046,140046,430653587,Good Samaritan Regional Hlth Center,1 Good Samaritan Way,Mount Vernon,IL,62864,N,Jefferson County,6432320,N,N,N,100-299 beds,17081,691,129,22-Jun-18
+140048,140048,362169147,Advocate Trinity Hospital,2320 E 93rd St,Chicago,IL,60617,Y,Cook County,6431150,N,N,N,100-299 beds,17031,692,127,22-Jun-18
+140051,140051,362167060,Skokie Hospital,9600 Gross Point Road,Skokie,IL,60076,Y,Cook County,,N,N,Y,100-299 beds,17031,693,1,22-Jun-18
+140052,140052,370813229,Osf Saint Anthonys Health Center,St Anthonys Way,Alton,IL,62002,Y,Madison County,6430030,N,Y,N,100-299 beds,17119,694,130,22-Jun-18
+140053,140053,370661238,St Johns Hospital,800 E Carpenter St,Springfield,IL,62769,Y,Sangamon County,6432980,N,Y,Y,>299 beds,17167,695,125,22-Jun-18
+140058,140058,900756744,Passavant Area Hospital,1600 W Walnut St,Jacksonville,IL,62650,N,Morgan County,6431970,N,N,N,<100 beds,17137,696,131,22-Jun-18
+140062,140062,362169179,Palos Community Hospital,12251 South 80th Avenue,Palos Heights,IL,60463,Y,Cook County,6431060,N,N,N,>299 beds,17031,697,1,22-Jun-18
+140063,140063,362183812,Rush Oak Park Hospital,520 S Maple Ave,Oak Park,IL,60304,Y,Cook County,6432420,N,Y,Y,100-299 beds,17031,698,126,22-Jun-18
+140064,140064,370813229,St Mary Medical Center,3333 North Seminary,Galesburg,IL,61401,N,Knox County,6431750,N,Y,N,100-299 beds,17095,699,130,22-Jun-18
+140065,140065,362276984,Adventist La Grange Memorial Hospital,5101 S Willow Springs Rd,La Grange,IL,60525,Y,Cook County,6432055,N,Y,Y,100-299 beds,17031,700,66,22-Jun-18
+140067,140067,370813229,Saint Francis Medical Center,530 Ne Glen Oak Ave,Peoria,IL,61637,Y,Peoria County,6432620,N,Y,Y,>299 beds,17143,701,130,22-Jun-18
+140068,140068,361703630,Roseland Community Hospital,45 W 111th Street,Chicago,IL,60628,Y,Cook County,6431030,N,N,N,100-299 beds,17031,702,1,22-Jun-18
+140077,140077,371305510,Touchette Regional Hospital Inc,5900 Bond Avenue,Centreville,IL,62207,Y,St. Clair County,6431515,N,N,N,100-299 beds,17163,703,1,22-Jun-18
+140079,140079,351330472,St James Hospital & Health Centers,1423 Chicago Road,Chicago Heights,IL,60411,Y,Cook County,,N,Y,N,>299 beds,17031,704,1,22-Jun-18
+140080,140080,362167800,Presence Saint Francis Hospital,355 Ridge Ave,Evanston,IL,60202,Y,Cook County,6431670,N,Y,Y,>299 beds,17031,705,120,22-Jun-18
+140083,140083,362200248,Loretto Hospital,645 South Central Ave,Chicago,IL,60644,Y,Cook County,6430830,N,N,Y,100-299 beds,17031,706,1,22-Jun-18
+140088,140088,363488183,The University Of Chicago Medical Center,5841 South Maryland,Chicago,IL,60637,Y,Cook County,6431210,N,N,Y,>299 beds,17031,707,134,22-Jun-18
+140091,140091,371119538,The Carle Foundation Hospital,611 West Park Street,Urbana,IL,61801,Y,Champaign County,6433070,N,N,Y,>299 beds,17019,708,135,22-Jun-18
+140093,140093,364195126,Presence United Samaritans Medical Center,812 N Logan,Danville,IL,61832,Y,Vermilion County,6431285,N,Y,N,100-299 beds,17183,709,120,22-Jun-18
+140094,140094,362171079,St Mary & Elizabeth Med Ctr-Claremont Campus,1431 N Claremont Ave,Chicago,IL,60622,Y,Cook County,,N,Y,Y,100-299 beds,17031,710,1,22-Jun-18
+140095,140095,510217097,Saint Anthony Hospital,2875 West 19th Street,Chicago,IL,60623,Y,Cook County,6430710,N,Y,Y,100-299 beds,17031,711,1,22-Jun-18
+140101,140101,362170155,Morris Hospital & Healthcare Centers,150 W High St,Morris,IL,60450,Y,Grundy County,6432300,N,N,N,<100 beds,17063,712,1,22-Jun-18
+140103,140103,362264414,St Bernard Hospital,326 W 64th St,Chicago,IL,60621,Y,Cook County,6431045,N,N,Y,100-299 beds,17031,713,1,22-Jun-18
+140108,140108,362167060,Highland Park Hospital,718 Glenview Ave,Highland Park,IL,60035,Y,Lake County,,N,N,N,100-299 beds,17097,714,1,22-Jun-18
+140110,140110,362604009,Ottawa Regional Hospital & Healthcare Center,1100 East Norris Drive,Ottawa,IL,61350,N,LaSalle County,6432480,N,N,N,<100 beds,17099,715,130,22-Jun-18
+140113,140113,364195126,Presence Covenant Medical Center,1400 West Park Avenue,Urbana,IL,61801,Y,Champaign County,6430001,N,Y,Y,100-299 beds,17019,716,120,22-Jun-18
+140114,140114,362179813,Swedish Covenant Hospital,5145 N California Ave,Chicago,IL,60625,Y,Cook County,6431180,N,Y,Y,100-299 beds,17031,717,1,22-Jun-18
+140115,140115,366000085,Thorek Memorial Hospital,850 W Irving Park Rd,Chicago,IL,60613,Y,Cook County,6430400,N,N,N,100-299 beds,17031,718,1,22-Jun-18
+140116,140116,362338884,Centegra Health System - Mc Henry Hospital,4201 Medical Center Drive,Mchenry,IL,60050,Y,McHenry County,6432127,N,N,N,100-299 beds,17111,719,136,22-Jun-18
+140117,140117,363330926,Presence Resurrection Medical Center,7435 W Talcott Avenue,Chicago,IL,60631,Y,Cook County,6431020,N,Y,N,>299 beds,17031,720,120,22-Jun-18
+140119,140119,362174823,Rush University Medical Center,1653 West Congress Parkway,Chicago,IL,60612,Y,Cook County,6430985,N,N,Y,<100 beds,17031,721,126,22-Jun-18
+140120,140120,370692351,Pekin Memorial Hospital,600 South 13th Street,Pekin,IL,61554,Y,Tazewell County,6432530,N,N,Y,100-299 beds,17179,722,60,22-Jun-18
+140122,140122,362276984,Adventist Hinsdale Hospital,120 North Oak St,Hinsdale,IL,60521,Y,DuPage County,6431920,N,Y,Y,>299 beds,17043,723,66,22-Jun-18
+140127,140127,362169147,Advocate Bromenn Medical Center,1304 Franklin Avenue,Normal,IL,61761,Y,McLean County,6430245,N,Y,N,100-299 beds,17113,724,127,22-Jun-18
+140130,140130,364724966,Northwestern Lake Forest Hospital,660 N Westmoreland Road,Lake Forest,IL,60045,Y,Lake County,6432060,N,N,N,100-299 beds,17097,725,137,22-Jun-18
+140133,140133,362170133,Holy Cross Hospital,2701 W 68th Street,Chicago,IL,60629,Y,Cook County,6430700,N,N,N,>299 beds,17031,726,124,22-Jun-18
+140135,140135,370661199,Decatur Memorial Hospital,2300 North Edward Street,Decatur,IL,62526,Y,Macon County,6431370,N,N,Y,>299 beds,17115,727,1,22-Jun-18
+140137,140137,370792770,Greenville Regional Hospital,200 Healthcare Dr,Greenville,IL,62246,Y,Bond County,6431825,N,N,N,<100 beds,17005,728,125,22-Jun-18
+140143,140143,362167884,St Margarets Hospital,600 E 1st St,Spring Valley,IL,61362,N,Bureau County,6433000,N,N,N,<100 beds,17011,729,138,22-Jun-18
+140145,140145,371208459,St Josephs Hospital,9515 Holy Cross Ln,Breese,IL,62230,Y,Clinton County,6430280,N,Y,N,<100 beds,17027,730,125,22-Jun-18
+140147,140147,371363001,Richland Memorial Hospital,800 East Locust,Olney,IL,62450,N,Richland County,6432445,N,N,N,100-299 beds,17159,731,1,22-Jun-18
+140148,140148,900756744,Memorial Medical Center,701 N First St,Springfield,IL,62781,Y,Sangamon County,6432950,N,N,N,>299 beds,17167,732,131,22-Jun-18
+140155,140155,364195126,Presence St Marys Hospital,500 W Court St,Kankakee,IL,60901,Y,Kankakee County,6432030,N,N,N,100-299 beds,17091,733,120,22-Jun-18
+140158,140158,362170152,Mercy Hospital And Medical Center,2525 S Michigan Ave,Chicago,IL,60616,Y,Cook County,6430870,N,N,Y,>299 beds,17031,734,40,22-Jun-18
+140160,140160,362181997,Fhn Memorial Hospital,1045 West Stephenson Street,Freeport,IL,61032,N,Stephenson County,6431720,N,N,N,100-299 beds,17177,735,1,22-Jun-18
+140161,140161,370813229,Saint James Hospital,2500 West Reynolds Street,Pontiac,IL,61764,N,Livingston County,6432670,N,Y,Y,<100 beds,17105,736,130,22-Jun-18
+140162,140162,370813229,St Joseph Medical Center,2200 E Washington,Bloomington,IL,61701,Y,McLean County,6430260,N,Y,N,100-299 beds,17113,737,130,22-Jun-18
+140164,140164,370618939,Memorial Hospital Of Carbondale,405 W Jackson,Carbondale,IL,62902,Y,Jackson County,6430327,N,N,Y,100-299 beds,17077,738,122,22-Jun-18
+140166,140166,370661244,St Marys Hospital,1800 E Lake Shore Dr,Decatur,IL,62521,Y,Macon County,6431390,N,N,Y,>299 beds,17115,739,125,22-Jun-18
+140167,140167,370673512,Iroquois Memorial Hospital,200 Fairman Street,Watseka,IL,60970,N,Iroquois County,6433130,N,N,N,<100 beds,17075,740,1,22-Jun-18
+140172,140172,351330472,Franciscan St James Health,20201 S Crawford Avenue,Olympia Fields,IL,60461,Y,Cook County,6430028,N,N,Y,100-299 beds,17031,741,139,22-Jun-18
+140174,140174,364195126,Presence Mercy Medical Center,1325 N Highland Avenue,Aurora,IL,60506,Y,Kane County,6430115,N,Y,N,>299 beds,17089,742,120,22-Jun-18
+140176,140176,362179764,Centegra Health System - Woodstock Hospital,3701 Doty Road,Woodstock,IL,60098,Y,McHenry County,6433260,N,N,N,100-299 beds,17111,743,136,22-Jun-18
+140177,140177,362448028,Jackson Park Hospital,7531 S Stony Island Ave,Chicago,IL,60649,Y,Cook County,6430780,N,N,N,>299 beds,17031,744,1,22-Jun-18
+140179,140179,362246719,Little Company Of Mary Hospital,2800 W 95th St,Evergreen Park,IL,60805,Y,Cook County,6431690,N,Y,Y,100-299 beds,17031,745,140,22-Jun-18
+140180,140180,362171079,Presence Saints Mary And Elizabeth Medical Center,2233 W Division St,Chicago,IL,60622,Y,Cook County,6431090,N,Y,N,>299 beds,17031,746,120,22-Jun-18
+140181,140181,361799520,South Shore Hospital,8012 South Crandon Avenue,Chicago,IL,60617,Y,Cook County,6431160,N,N,N,100-299 beds,17031,747,1,22-Jun-18
+140182,140182,363196629,Advocate Illinois Masonic Medical Center,836 West Wellington Avenue,Chicago,IL,60657,Y,Cook County,6430024,N,Y,Y,>299 beds,17031,748,127,22-Jun-18
+140185,140185,370635502,Memorial Hospital,4500 Memorial Drive,Belleville,IL,62226,Y,St. Clair County,6430195,N,N,N,>299 beds,17163,749,118,22-Jun-18
+140186,140186,362414944,Riverside Medical Center,350 N Wall St,Kankakee,IL,60901,Y,Kankakee County,6432025,N,N,Y,>299 beds,17091,750,1,22-Jun-18
+140187,140187,370663567,St Elizabeth Hospital,211 S Third St,Belleville,IL,62220,Y,St. Clair County,6430200,N,Y,Y,100-299 beds,17163,751,125,22-Jun-18
+140189,140189,237098532,Sarah Bush Lincoln Health Center,1000 Health Center Drive P O Box 372,Mattoon,IL,61938,N,Coles County,6430375,N,N,N,100-299 beds,17029,752,1,22-Jun-18
+140191,140191,362170866,Ingalls Memorial Hospital,One Ingalls Drive,Harvey,IL,60426,Y,Cook County,6431860,N,N,N,>299 beds,17031,753,134,22-Jun-18
+140197,140197,362012788,Methodist Hospital Of Chicago,5025 N Paulina Street,Chicago,IL,60640,Y,Cook County,6430430,N,N,N,100-299 beds,17031,754,1,22-Jun-18
+140200,140200,352339114,Elmhurst Memorial Hospital,155 East Brush Hill Road,Elmhurst,IL,60126,Y,DuPage County,6431620,N,N,N,100-299 beds,17043,755,141,22-Jun-18
+140202,140202,262525968,Advocate Condell Medical Center,801 S Milwaukee Ave,Libertyville,IL,60048,Y,Lake County,6432080,N,N,N,100-299 beds,17097,756,127,22-Jun-18
+140205,140205,362222696,Swedish American Med Ctr Belvidere,1625 S State St,Belvidere,IL,61008,Y,Boone County,,N,N,N,<100 beds,17007,757,1,22-Jun-18
+140206,140206,361564290,Norwegian-American Hospital,1044 N Francisco Ave,Chicago,IL,60622,Y,Cook County,6430965,N,N,N,100-299 beds,17031,758,1,22-Jun-18
+140208,140208,362169147,Advocate Christ Hospital & Medical Center,4440 W 95th Street,Oak Lawn,IL,60453,Y,Cook County,6432413,N,Y,Y,>299 beds,17031,759,127,22-Jun-18
+140209,140209,370661223,Methodist Medical Center Of Illinois,221 N E Glen Oak Ave,Peoria,IL,61636,Y,Peoria County,6432570,N,N,Y,>299 beds,17143,760,123,22-Jun-18
+140210,140210,237426289,Harrisburg Medical Center,100 Doctor Warren Tuttle Dr,Harrisburg,IL,62946,N,Saline County,6431830,N,N,N,<100 beds,17165,761,1,22-Jun-18
+140211,140211,364724966,Delnor Community Hospital,300 Randall Rd,Geneva,IL,60134,Y,Kane County,6431765,N,N,N,100-299 beds,17089,762,137,22-Jun-18
+140213,140213,362174832,Silver Cross Hospital  And Medical Centers,1900 Silver Cross Blvd,New Lenox,IL,60451,Y,Will County,6432000,N,N,N,>299 beds,17197,763,1,22-Jun-18
+140217,140217,364195126,Presence Saint Joseph Hospital - Elgin,77 N Airlite Street,Elgin,IL,60123,Y,Kane County,6431600,N,Y,N,100-299 beds,17089,764,120,22-Jun-18
+140223,140223,362169147,Advocate Lutheran General Hospital,1775 Dempster St,Park Ridge,IL,60068,Y,Cook County,6430405,N,Y,Y,>299 beds,17031,765,127,22-Jun-18
+140224,140224,363200170,Presence Saint Joseph Hospital - Chicago,2900 North Lake Shore Drive,Chicago,IL,60657,Y,Cook County,6431070,N,Y,Y,>299 beds,17031,766,120,22-Jun-18
+140228,140228,362222696,Swedish American Hospital,1401 East State Street,Rockford,IL,61104,Y,Winnebago County,6432810,N,N,Y,>299 beds,17201,767,1,22-Jun-18
+140231,140231,363297173,Edward Hospital,801 South Washington,Naperville,IL,60540,Y,DuPage County,6432350,N,N,N,100-299 beds,17043,768,141,22-Jun-18
+140233,140233,370813229,Saint Anthony Medical Center,5666 East State Street,Rockford,IL,61108,Y,Winnebago County,6432800,N,Y,Y,100-299 beds,17201,769,130,22-Jun-18
+140234,140234,362852553,Illinois Valley Community Hospital,925 West St,Peru,IL,61354,N,LaSalle County,6432045,N,N,N,<100 beds,17099,770,1,22-Jun-18
+140239,140239,362167847,Rockford Memorial Hospital,2400 North Rockton Avenue,Rockford,IL,61103,Y,Winnebago County,6432780,N,N,Y,>299 beds,17201,771,1,22-Jun-18
+140242,140242,364724966,Central Dupage Hospital,25 North Winfield Road,Winfield,IL,60190,Y,DuPage County,6430019,N,N,N,>299 beds,17043,772,137,22-Jun-18
+140250,140250,362169147,Advocate South Suburban Hospital,17800 S Kedzie Ave,Hazel Crest,IL,60429,Y,Cook County,6431865,N,Y,N,100-299 beds,17031,773,127,22-Jun-18
+140251,140251,362644178,Presence Our Lady Of The Resurrection Med Ctr,5645 W Addison,Chicago,IL,60634,Y,Cook County,6430964,N,N,Y,100-299 beds,17031,774,1,22-Jun-18
+140252,140252,362340313,Northwest Community Hospital 1,800 W Central Road,Arlington Heights,IL,60005,Y,Cook County,6432485,N,N,N,>299 beds,17031,775,1,22-Jun-18
+140258,140258,362596381,Alexian Brothers Medical Center 1,800 W Biesterfield Rd,Elk Grove Village,IL,60007,Y,Cook County,6431613,N,Y,Y,>299 beds,17031,776,2,22-Jun-18
+140275,140275,363616314,Genesis Health System,801 Illini Drive,Silvis,IL,61282,Y,Rock Island County,6431511,N,N,N,100-299 beds,17161,777,145,22-Jun-18
+140276,140276,364015560,Loyola University Medical Center,2160 S 1st Avenue,Maywood,IL,60153,Y,Cook County,6430841,N,N,Y,>299 beds,17031,778,40,22-Jun-18
+140280,140280,362739299,Trinity Rock Island,2701 17th St,Rock Island,IL,61201,Y,Rock Island County,6430016,N,N,N,<100 beds,17161,779,123,22-Jun-18
+140281,140281,364724966,Northwestern Memorial Hospital,251 E Huron St,Chicago,IL,60611,Y,Cook County,6430545,N,N,Y,>299 beds,17031,780,137,22-Jun-18
+140286,140286,364724966,Kishwaukee Community Hospital,One Kish Hospital Drive,Dekalb,IL,60115,Y,DeKalb County,6431420,N,N,N,<100 beds,17037,781,137,22-Jun-18
+140288,140288,362169147,Advocate Good Samaritan Hospital,3815 Highland Avenue,Downers Grove,IL,60515,Y,DuPage County,6431475,N,Y,N,>299 beds,17043,782,127,22-Jun-18
+140289,140289,370662561,Anderson Hospital,6800 State Route 162,Maryville,IL,62062,Y,Madison County,6432180,N,N,N,100-299 beds,17119,783,1,22-Jun-18
+140290,140290,364251846,St Alexius Medical Center,1555 N Barrington Rd,Hoffman Estates,IL,60194,Y,Cook County,6431926,N,Y,N,>299 beds,17031,784,2,22-Jun-18
+140291,140291,362169147,Advocate Good Shepherd Hospital,450 West Highway 22,Barrington,IL,60010,Y,Lake County,6430160,N,Y,N,100-299 beds,17097,785,127,22-Jun-18
+140292,140292,363208390,Adventist Glenoaks,701 Winthrop Avenue,Glendale Heights,IL,60139,Y,DuPage County,6431790,N,N,N,100-299 beds,17043,786,66,22-Jun-18
+140304,140304,651219504,Adventist Bolingbrook Hospital,500 Remington Boulevard,Bolingbrook,IL,60440,Y,Will County,6430034,N,N,N,100-299 beds,17197,787,66,22-Jun-18
+141300,141300,370673461,Thomas H Boyd Memorial Hospital,800 School St,Carrollton,IL,62016,N,Greene County,6430350,N,N,N,<100 beds,17061,788,1,22-Jun-18
+141301,141301,370661215,Kirby Medical Center,1111 N State St,Monticello,IL,61856,Y,Piatt County,6432280,N,N,N,<100 beds,17147,789,1,22-Jun-18
+141302,141302,204560540,Midwest Medical Center,One Medical Center Drive,Galena,IL,61036,N,Jo Daviess County,6431735,N,N,N,<100 beds,17085,790,1,22-Jun-18
+141304,141304,454475683,"Genesis Medical Center, Aledo",409 Nw 9th Avenue,Aledo,IL,61231,Y,Mercer County,6430005,N,N,N,<100 beds,17131,791,145,22-Jun-18
+141305,141305,370684691,Memorial Hospital L,"South Adams St, Po Box 160",Carthage,IL,62321,N,Hancock County,6430355,N,N,N,<100 beds,17067,792,1,22-Jun-18
+141306,141306,370624255,Community Memorial Hospital,400 Caldwell,Staunton,IL,62088,Y,Macoupin County,6433002,N,N,N,<100 beds,17117,793,1,22-Jun-18
+141309,141309,362169147,Advocate Eureka  Hospital,101 S Major St,Eureka,IL,61530,Y,Woodford County,6431623,N,N,N,<100 beds,17203,794,127,22-Jun-18
+141310,141310,362167785,Osf Saint Paul Medical Center,1401 E 12th Street,Mendota,IL,61342,N,LaSalle County,6432225,N,N,N,<100 beds,17099,795,130,22-Jun-18
+141311,141311,370661202,Fairfield Memorial Hospital 1,303 N W 11th Street,Fairfield,IL,62837,N,Wayne County,6431705,N,N,N,<100 beds,17191,796,147,22-Jun-18
+141312,141312,362548549,Rochelle Community Hospital,900 N 2nd St,Rochelle,IL,61068,N,Ogle County,6432750,N,N,N,<100 beds,17141,797,1,22-Jun-18
+141315,141315,371396010,Illini Community Hospital,640 W Washington,Pittsfield,IL,62363,N,Pike County,6432640,N,N,N,<100 beds,17149,798,1,22-Jun-18
+141316,141316,363637465,Hoopeston Community Memorial Hospital,701 East Orange Street,Hoopeston,IL,60942,Y,Vermilion County,6431927,N,N,N,<100 beds,17183,799,135,22-Jun-18
+141317,141317,370647938,Gibson Community Hospital,1120 N Melvin Street,Gibson City,IL,60936,Y,Ford County,6431782,N,N,N,<100 beds,17053,800,147,22-Jun-18
+141318,141318,370813229,Osf Holy Family Medical Center,1000 W Harlem Avenue,Monmouth,IL,61462,N,Warren County,6432270,N,N,N,<100 beds,17187,801,130,22-Jun-18
+141320,141320,370860281,Paris Community Hospital,721 E Court Street,Paris,IL,61944,N,Edgar County,6432500,N,N,N,<100 beds,17045,802,147,22-Jun-18
+141322,141322,900756744,Abraham Lincoln Memorial Hospital,200 Stahlhut Drive,Lincoln,IL,62656,N,Logan County,6432090,N,N,N,<100 beds,17107,803,131,22-Jun-18
+141324,141324,201244058,Ferrell Hospital Community Foundations,1201 Pine Street,Eldorado,IL,62930,N,Saline County,6431570,N,N,N,<100 beds,17165,804,1,22-Jun-18
+141325,141325,370813229,Osf Saint Lukes Medical Center,1051 West South Street,Kewanee,IL,61443,Y,Henry County,6432040,N,Y,N,<100 beds,17073,805,130,22-Jun-18
+141328,141328,370702309,Hardin County General Hospital,Ferrell Road,Rosiclare,IL,62982,N,Hardin County,6432850,N,N,N,<100 beds,17069,806,1,22-Jun-18
+141330,141330,370808925,Hopedale Medical Complex,107 Tremont Street,Hopedale,IL,61747,Y,Tazewell County,6431911,N,N,N,<100 beds,17179,807,1,22-Jun-18
+141331,141331,370661218,Marshall Browning Hospital,900 North Washington Street,Du Quoin,IL,62832,N,Perry County,6431490,N,N,N,<100 beds,17145,808,1,22-Jun-18
+141332,141332,370661208,Hillsboro Area Hospital,1200 E Tremont Street,Hillsboro,IL,62049,N,Montgomery County,6431900,N,N,N,<100 beds,17135,809,25,22-Jun-18
+141334,141334,370618939,St Joseph Memorial Hospital,2 South Hospital Drive,Murphysboro,IL,62966,Y,Jackson County,6432340,N,N,N,<100 beds,17077,810,122,22-Jun-18
+141335,141335,311551871,Mercy Harvard Hospital,901 Grant Street,Harvard,IL,60033,Y,McHenry County,6431855,N,N,N,<100 beds,17111,811,148,22-Jun-18
+141336,141336,370663568,St Josephs Hospital,12866 Troxler Avenue,Highland,IL,62249,Y,Madison County,6431880,N,Y,N,<100 beds,17119,812,125,22-Jun-18
+141339,141339,900756744,Taylorville Memorial Hospital,201 East Pleasant Street,Taylorville,IL,62568,N,Christian County,6433050,N,N,N,<100 beds,17021,813,131,22-Jun-18
+141340,141340,364724966,Valley West Community Hospital,1301 North Main Street,Sandwich,IL,60548,Y,DeKalb County,6432910,N,N,N,<100 beds,17037,814,137,22-Jun-18
+141341,141341,376062326,Pana Community Hospital,101 E Ninth Street,Pana,IL,62557,N,Christian County,6432490,N,N,N,<100 beds,17021,815,1,22-Jun-18
+141343,141343,370793762,Crawford Memorial Hospital,1000 North Allen Street,Robinson,IL,62454,N,Crawford County,6432739,N,N,Y,<100 beds,17033,816,60,22-Jun-18
+141344,141344,800618988,Lawrence County Memorial Hospital,2200 W State St,Lawrenceville,IL,62439,N,Lawrence County,6432075,N,N,N,<100 beds,17101,817,60,22-Jun-18
+141347,141347,370645239,Carlinville Area Hospital,20733 N Broad Street,Carlinville,IL,62626,Y,Macoupin County,6430337,N,N,N,<100 beds,17117,818,25,22-Jun-18
+141350,141350,370661236,St Francis Hospital,1215 Franciscan Dr,Litchfield,IL,62056,N,Montgomery County,6432120,N,Y,N,<100 beds,17135,819,125,22-Jun-18
+143300,143300,362170833,Ann & Robert H Lurie Childrens Hospital Of Chicago,225 E Chicago,Chicago,IL,60611,Y,Cook County,6430560,Y,N,Y,100-299 beds,17031,820,1,22-Jun-18
+143301,143301,362170143,Larabida Childrens Hospital I,E 65th St At Lake Michigan,Chicago,IL,60649,Y,Cook County,6430800,Y,N,Y,<100 beds,17031,821,1,22-Jun-18
+143302,143302,362193608,Shriners Hospital For Children,2211 North Oak Park Ave,Chicago,IL,60707,Y,Cook County,6431140,Y,N,Y,<100 beds,17031,822,58,22-Jun-18

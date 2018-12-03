@@ -33,6 +33,7 @@ df
 df <- teachers %>% distinct(school)
 df
 
+
 # distinct schools and salaries
 df <- teachers %>% distinct( school,salary )
 df
