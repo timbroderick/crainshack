@@ -39,7 +39,7 @@ I don't have a lot of resources for Excel. If there's a free or cheap course tha
 
 ### For R
 
-R is a language specifically designed for statistical analysis. Tons of free stuff out there.
+R is a language specifically designed for statistical analysis. There are tons of free stuff out there.
 
 To use it, [install the R language](https://cran.rstudio.com/) and then [install Rstudio](https://www.rstudio.com/products/rstudio/download/#download). These are free. See me for assistance installing.
 
