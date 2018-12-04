@@ -75,7 +75,7 @@ If you have some to suggest, please let me know and I'll include them here.
 * [html5doctor](http://html5doctor.com/element-index/) is a reference recommended by Emily Olsen. Looks good.
 * I bookmarked [The Odin Project](https://www.theodinproject.com/) a while ago for some reason - it seems to have a number of free tutorials to get you started on web design. I would start with [html and css](https://www.theodinproject.com/courses/html5-and-css3), and then try [javascript](https://www.theodinproject.com/courses/javascript). ***NOTE: I HAVE NOT DONE THESE.*** Try them out as long as they're free, but I wouldn't recommend paying for any courses with out fully vetting the site first.
 
-Note: I do not recommend anything from W3schools dot com. It seems like a content farm that comes up way too often in google searches - its URL plays off the official consortium (w3.org) that's responsible for developing the html language. I've never gotten much out of W3schools and always feel like I need to cleanse my computer after looking at one of their pages.
+Note: I don't recommend using W3schools dot com. It seems like a content farm that comes up way too often in google searches - its URL plays off the official consortium (w3.org) that's responsible for developing the html language. If you're googling for solutions, try to avoid that site.
 
 ___
 
