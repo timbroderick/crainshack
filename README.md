@@ -7,7 +7,7 @@ This is the online home of the weekly half-hour flipped classroom for Crain's em
 
 **Yes, I'll be there on Tuesday, December 11,** .
 
-* Rachel and maybe I will present a demo of pivot tables in Excel. Rachel attended an IRE training session on this, and has been using it to help track data breaches.
+* Rachel and maybe I will present a demo of pivot tables in Excel. Rachel attended an IRE training session on this, and has been using it to help track data breaches. You can get the data she'll be using [here](https://github.com/baltimore-sun-data/census-data-analysis-2018).
 * Some of us will be continuing [this tutorial](https://first-graphics-app.readthedocs.io/). The python version of this is linked below. But I'll be available if anyone has questions on other topics.
 
 ### What's here
