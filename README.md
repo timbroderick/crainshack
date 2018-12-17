@@ -5,9 +5,10 @@ This is the online home of the weekly half-hour flipped classroom for Crain's em
 
 **What's new:** I added an R example where I worked some data on hospitals and made a few charts. It's in the "data" folder, but if you'd like a demo of it just ask!
 
-**Yes, I'll be there on Tuesday, December 11,** .
+**Yes, I'll be there on Tuesday, December 18,** . I will also be bowling Tuesday night!
 
-* Rachel and maybe I will present a demo of pivot tables in Excel. Rachel attended an IRE training session on this, and has been using it to help track data breaches. You can get the data she'll be using [here](https://github.com/baltimore-sun-data/census-data-analysis-2018).
+* This week I'm going to do a quick demo on working with .csv files. We all like to click and open them right away (me too), but I'm going to show why that's not always a good idea and what we should be doing instead.
+* Last week, Rachel presented a demo of pivot tables in Excel. She attended an IRE training session on this, and has been using it to help track data breaches. You can get the data she's using [here](https://github.com/baltimore-sun-data/census-data-analysis-2018).
 * Some of us will be continuing [this tutorial](https://first-graphics-app.readthedocs.io/). The python version of this is linked below. But I'll be available if anyone has questions on other topics.
 
 ### What's here
@@ -47,7 +48,7 @@ Here are the learning resources I recommend:
 * [R for Data Science](https://r4ds.had.co.nz/introduction.html) Part two of the essential R books. This one focuses on data analysis and visualizations.
 * Alternatively, if you would rather have a self-paced series of video tutorials with exercises, I recommend the Udemy course [R programming for data science](https://www.udemy.com/r-programming/). I did this course and found it very useful. **DO NOT PAY MORE THAN $20 FOR THIS COURSE.** Please see me first about discounts.
 * Once I got up and running with R, I put together [this series of tutorials](https://timbroderick.github.io/R_graphics/) for my co-workers and myself (to document what I'd learned), mainly focused on making print-ready graphics with R. Lots of links to cool stuff.
-* I have not tried these two links out, but they look very interesting: [R for Journalists](https://learn.r-journalism.com/en/) and [R programming courses through EDX](https://www.edx.org/learn/r-programming). EDX is a platform developed by Harvard and MIT, and the courses are self-paced ones designed by Harvard and Microsoft. 
+* I have not tried these two links out, but they look very interesting: [R for Journalists](https://learn.r-journalism.com/en/) and [R programming courses through EDX](https://www.edx.org/learn/r-programming). EDX is a platform developed by Harvard and MIT, and the courses are self-paced ones designed by Harvard and Microsoft.
 * I sat through [this session](https://paldhous.github.io/NICAR/2017/r-analysis.html) a few years ago and found it very useful. Wait till you learn a bit about R first.
 * The Chicago chapter of [R-Ladies](https://rladieschicago.org/) is very active and meets on a regular basis. Founder Angela Li is now regularly attending [ChiHackNight](https://chihacknight.org/), where I'll be volunteering to help out when I'm there too.
 * This [Quartz article](https://qz.com/1464525/whats-the-best-way-to-learn-the-programming-language-r-preferably-for-free/) has some good links for more resources.
