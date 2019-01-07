@@ -5,10 +5,9 @@ This is the online home of the weekly half-hour flipped classroom for Crain's em
 
 **What's new:** I added an R example where I worked some data on hospitals and made a few charts. It's in the "data" folder, but if you'd like a demo of it just ask!
 
-**Yes, I'll be there on Tuesday, December 18,** . I will also be bowling Tuesday night!
+**I will NOT be there on Tuesday, Jan. 8, but I will be there next Tuesday, Jan. 15**
 
-* This week I'm going to do a quick demo on working with .csv files. We all like to click and open them right away (me too), but I'm going to show why that's not always a good idea and what we should be doing instead.
-* Last week, Rachel presented a demo of pivot tables in Excel. She attended an IRE training session on this, and has been using it to help track data breaches. You can get the data she's using [here](https://github.com/baltimore-sun-data/census-data-analysis-2018).
+* New year, new skills! Think about what you'd like to accomplish - I'm happy to help!
 * Some of us will be continuing [this tutorial](https://first-graphics-app.readthedocs.io/). The python version of this is linked below. But I'll be available if anyone has questions on other topics.
 
 ### What's here
