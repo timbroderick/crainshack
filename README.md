@@ -5,10 +5,12 @@ This is the online home of the weekly half-hour flipped classroom for Crain's em
 
 **What's new:** I added an R example where I worked some data on hospitals and made a few charts. It's in the "data" folder, but if you'd like a demo of it just ask!
 
-**I will NOT be there on Tuesday, Jan. 8, but I will be there next Tuesday, Jan. 15**
+**I will be there Tuesday, Jan. 15**
 
 * New year, new skills! Think about what you'd like to accomplish - I'm happy to help!
+* At this session, I'm going to learn a bit about an Excel command called ["vlookup."](https://support.office.com/en-us/article/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1) It's used to find a value in a range of columns.
 * Some of us will be continuing [this tutorial](https://first-graphics-app.readthedocs.io/). The python version of this is linked below. But I'll be available if anyone has questions on other topics.
+* If you’re curious, I can also show how I’m working with Modern Healthcare Metrics to better understand the data.
 
 ### What's here
 
