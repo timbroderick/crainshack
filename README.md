@@ -5,11 +5,10 @@ This is the online home of the weekly half-hour flipped classroom for Crain's em
 
 **What's new:** I added an R example where I worked some data on hospitals and made a few charts. It's in the "data" folder, but if you'd like a demo of it just ask!
 
-**I will be there Tuesday, Jan. 15**
+**I will be there Tuesday, Feb. 5**
 
 * New year, new skills! Think about what you'd like to accomplish - I'm happy to help!
-* At this session, I'm going to learn a bit about an Excel command called ["vlookup."](https://support.office.com/en-us/article/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1) It's used to find a value in a range of columns.
-* Some of us will be continuing [this tutorial](https://first-graphics-app.readthedocs.io/). The python version of this is linked below. But I'll be available if anyone has questions on other topics.
+* I have a brand new book I'm eager to get started with: [Practical R for Mass Communication and Journalism])https://www.amazon.com/Practical-Mass-Communication-Journalism-Chapman/dp/1138726915/). There's free excerpts and exercises on the web [here](http://www.machlis.com/R4Journalists/index.html), so if you're interested in getting started with R this is a great time. Come up to the 18-floor cafeteria and I'll help you get started.
 * If you’re curious, I can also show how I’m working with Modern Healthcare Metrics to better understand the data.
 
 ### What's here
