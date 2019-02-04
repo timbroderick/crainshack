@@ -8,7 +8,7 @@ This is the online home of the weekly half-hour flipped classroom for Crain's em
 **I will be there Tuesday, Feb. 5**
 
 * New year, new skills! Think about what you'd like to accomplish - I'm happy to help!
-* I have a brand new book I'm eager to get started with: [Practical R for Mass Communication and Journalism])https://www.amazon.com/Practical-Mass-Communication-Journalism-Chapman/dp/1138726915/). There's free excerpts and exercises on the web [here](http://www.machlis.com/R4Journalists/index.html), so if you're interested in getting started with R this is a great time. Come up to the 18-floor cafeteria and I'll help you get started.
+* I have a brand new book I'm eager to get started with: [Practical R for Mass Communication and Journalism](https://www.amazon.com/Practical-Mass-Communication-Journalism-Chapman/dp/1138726915/). There's free excerpts and exercises on the web [here](http://www.machlis.com/R4Journalists/index.html), so if you're interested in getting started with R this is a great time. Come up to the 18-floor cafeteria and I'll help you get started.
 * If you’re curious, I can also show how I’m working with Modern Healthcare Metrics to better understand the data.
 
 ### What's here
