@@ -68,3 +68,18 @@ head(dfgroup)
 
 # save to csv 
 write_csv(dfgroup,'csv/update.csv')
+
+#------ 
+# Finally, we create our top ten list for the month we're examining using dfopen
+# that's just a matter of slicing and sorting
+
+# first get the columns we want
+dflist <- select(dfopen,'Name of Covered Entity','State','Covered Entity Type','Individuals Affected','Breach Submission Date','Type of Breach','Location of Breached Information') 
+# rename them
+colnames(dflist) <- c('entity','state','org','affect','date','type','location')
+# slice the month we want and sort by top number of indv. affected
+dflist <- filter(dflist, (date >= '2019-01-01') & (date <= '2019-01-31') ) %>% arrange(desc(affect))
+# get the top ten
+dflist <- dflist[1:10,]
+# save to csv 
+write_csv(dflist,'csv/topten.csv')
