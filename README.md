@@ -3,7 +3,8 @@
 
 This is the online home of the weekly half-hour flipped classroom for Crain's employees in Chicago. I'll be in the 18th-floor lunchroom every Tuesday at noon for a half-hour, unless noted below.
 
-**What's new:** I added an R example where I worked some data on hospitals and made a few charts. It's in the "data" folder, but if you'd like a demo of it just ask!
+**What's new:** Every month I update the [healthcare databreach tracker](https://www.modernhealthcare.com/assets/graphics/evergreen/breachtracker-20181022/child.html). Doing this in Excel would involve a number of manual steps including a pivot table. But it's the same process every month, so it's a prime example of writing an R script to do the work quickly.
+You can find that script and the data to work on it in a folder called "databreaches" inside the [data folder](https://github.com/timbroderick/crainshack/tree/master/data)
 
 **I will be there Tuesday, Feb. 5**
 
