@@ -1,0 +1,11 @@
+entity,state,org,affect,date,type,location
+Centerstone Insurance and Financial Services (d/b/a BenefitMall),TX,Business Associate,111589,2019-01-03,Hacking/IT Incident,Email
+"Las Colinas Orthopedic Surgery & Sports Medicine, PA",TX,Healthcare Provider,76000,2019-01-18,Theft,Other Portable Electronic Device
+Valley Hope Association,KS,Healthcare Provider,70799,2019-01-18,Hacking/IT Incident,Email
+Managed Health Services,IN,Health Plan,31300,2019-01-03,Hacking/IT Incident,Email
+"Dr. DeLuca Dr. Marciano & Associates, P.C.",CT,Healthcare Provider,23578,2019-01-25,Hacking/IT Incident,"Desktop Computer, Electronic Medical Record, Network Server"
+"Critical Care, Pulmonary and Sleep Associates, PLLP",CO,Healthcare Provider,23377,2019-01-21,Hacking/IT Incident,Email
+"Family Physicians of Winter Park, Inc.",KY,Healthcare Provider,8429,2019-01-08,Hacking/IT Incident,Email
+"Integrity, Inc. d/b/a Integrity House",NJ,Healthcare Provider,7206,2019-01-18,Theft,"Desktop Computer, Laptop"
+ABB Inc. Active Employee Group Benefit Plan,NC,Health Plan,6877,2019-01-18,Unauthorized Access/Disclosure,Paper/Films
+Stonehaven Dental,TX,Healthcare Provider,6289,2019-01-22,Theft,Network Server

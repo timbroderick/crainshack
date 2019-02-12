@@ -14,7 +14,7 @@
 # in a folder called csv, that's in the same overall folder with this script
 
 # set the working directory
-setwd("~/anaconda3/envs/notebook/databreaches")
+setwd("~/anaconda3/envs/notebook/crainshack/data/databreaches")
 
 # load libraries
 library(tidyverse)
@@ -37,6 +37,10 @@ dfclosed$status <- "closed"
 
 # now append the two together
 df <- rbind(dfopen, dfclosed)
+
+# saving combined
+write_csv(df,'csv/combined.csv')
+
 lapply(df, class) # check the classes of the columns. We want the dates to be dates
 
 # select just the columns we want and rename them
@@ -55,13 +59,14 @@ head(dfa)
 # A column with a month an year like Jan-2019
 # A column that counts the number of breaches in each month
 # A column that totals the number of individuals affected by breaches for each month
-
+# https://www.rforexcelusers.com/make-pivottable-in-r/
 # here's how we do that:
 
-# first group by year, month, then sort descending
-dfgroup <- group_by(dfa, breachd,breachdate) %>% arrange(desc(breachd))
+
+# first group by year, month, then sort descending and filter out any NAs in individuals
+dfgroup <- group_by(dfa, breachd,breachdate) %>% arrange(desc(breachd)) %>% filter(!is.na(individuals))
 # for each month, count the number of breaches and total up the individuals affected
-dfgroup <- summarise(dfgroup,countbr = n(),sumind = sum(individuals)) 
+dfgroup <- summarise(dfgroup,countbr = n(),sumind = sum(individuals))
 
 # take a look at what we have
 head(dfgroup)
@@ -70,7 +75,7 @@ head(dfgroup)
 write_csv(dfgroup,'csv/update.csv')
 
 #------ 
-# Finally, we create our top ten list for the month we're examining using dfopen
+# Finally, we create our top ten list for the month we're examining
 # that's just a matter of slicing and sorting
 
 # first get the columns we want
