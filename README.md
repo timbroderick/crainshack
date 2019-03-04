@@ -6,9 +6,9 @@ This is the online home of the weekly half-hour flipped classroom for Crain's em
 **What's new:** Every month I update the [healthcare databreach tracker](https://www.modernhealthcare.com/assets/graphics/evergreen/breachtracker-20181022/child.html). Doing this in Excel would involve a number of manual steps including a pivot table. But it's the same process every month, so it's a prime example of writing an R script to do the work quickly.
 You can find that script and the data to work on it in a folder called "databreaches" inside the [data folder](https://github.com/timbroderick/crainshack/tree/master/data)
 
-**I will be there Tuesday, Feb. 19**
+**I will be there Tuesday, March 5**
 
-* Found a very good step-by-step R course based on a mook called R for Journalists, originally offered by the Knight Center at the University of Texas. [Seriously looks really good](https://learn.r-journalism.com/en/) 
+* Found a very good step-by-step R course based on a mook called R for Journalists, originally offered by the Knight Center at the University of Texas. [Seriously looks really good](https://learn.r-journalism.com/en/)
 * I have a brand new book I'm eager to get started with: [Practical R for Mass Communication and Journalism](https://www.amazon.com/Practical-Mass-Communication-Journalism-Chapman/dp/1138726915/). There's free excerpts and exercises on the web [here](http://www.machlis.com/R4Journalists/index.html), so if you're interested in R this is a great entry point. Come up to the 18-floor cafeteria and I'll help you get started.
 * If you’re curious, I can also show how I’m working with Modern Healthcare Metrics to better understand the data.
 
